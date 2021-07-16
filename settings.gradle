@@ -1,2 +1,3 @@
 rootProject.name = "Widgets"
 include ':app'
+include ':SignView'
